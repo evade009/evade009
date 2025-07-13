@@ -1,16 +1,23 @@
-## Hi there 👋
+<!-- Banner (You can replace the image URL below with your own custom banner) -->
+<p align="center">
+  <img src="https://i.imgur.com/4M7IWwP.gif" width="100%" alt="Banner" />
+</p>
 
-<!--
-**evade009/evade009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm evade 👋</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=17+y%2F%2FJavaScript+Developer;Anime+Enthusiast;Always+learning+new+things" alt="Typing SVG" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 About Me
+
+```js
+const evade = {
+  age: 17,
+  code: ["JavaScript", "HTML", "CSS"],
+  style: "minimal",
+  theme: "dark",
+  passion: ["building cool things", "designing clean UIs", "watching anime"],
+};
