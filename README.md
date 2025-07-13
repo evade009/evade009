@@ -17,7 +17,4 @@
 const evade = {
   age: 17,
   code: ["JavaScript", "HTML", "CSS"],
-  style: "minimal",
-  theme: "dark",
-  passion: ["building cool things", "designing clean UIs", "watching anime"],
 };
